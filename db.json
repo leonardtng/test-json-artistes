@@ -53,6 +53,12 @@
             "img": "https://www.helloasia.com.au/wp-content/uploads/2016/01/JJ-Lin3.jpg"
         },
         {
+            "id": 2,
+            "label": "Lady Gaga",
+            "avatar": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/artiste/avatar/jjlin.png",
+            "img": "https://cdn.shopify.com/s/files/1/1712/4551/products/artrockstore-lady-gaga-joanne-album_1024x1024.jpg?v=1551559212"
+        },
+        {
             "id": 4,
             "label": "Justin Bieber",
             "avatar": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/artiste/avatar/jjlin.png",
