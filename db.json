@@ -11,6 +11,24 @@
             "label": "Lady Gaga",
             "avatar": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/artiste/avatar/jjlin.png",
             "img": "https://cdn.shopify.com/s/files/1/1712/4551/products/artrockstore-lady-gaga-joanne-album_1024x1024.jpg?v=1551559212"
+        },
+        {
+            "id": 3,
+            "label": "Jay Chou",
+            "avatar": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/artiste/avatar/jjlin.png",
+            "img": "https://coconuts.co/wp-content/uploads/2019/05/jay-chou.jpg"
+        },
+        {
+            "id": 4,
+            "label": "Justin Bieber",
+            "avatar": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/artiste/avatar/jjlin.png",
+            "img": "https://d2jv9003bew7ag.cloudfront.net/uploads/bieber-cover-art-retna.jpg"
+        },
+        {
+            "id": 5,
+            "label": "Avril Lavigne",
+            "avatar": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/artiste/avatar/jjlin.png",
+            "img": "https://www.wonderslist.com/wp-content/uploads/2017/06/Most-Beautiful-Singer-Avril-Lavigne.jpg"
         }
     ],
     
